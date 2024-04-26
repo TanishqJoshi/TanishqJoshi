@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithms**
 
-- 📫 How to reach me **tanishqjoshi2408@gmail.ocm**
+- 📫 How to reach me **tanishqjoshi2408@gmail.com**
 
 - ⚡ Fun fact **I like reading about Geopolitics**
 
