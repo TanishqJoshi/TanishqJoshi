@@ -9,48 +9,48 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=36&duration=4000&color=A78BFA&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Tanishq+Joshi!">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=36&duration=4000&color=818CF8&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Tanishq+Joshi!">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=4000&color=A78BFA&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Tanishq+Joshi!">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&duration=4000&color=818CF8&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Tanishq+Joshi!">
   </picture>
 
   <br/>
   <br/>
 
-  <div style="display: inline-block; padding: 8px 24px; border: 1px solid rgba(129, 140, 248, 0.2); background: rgba(129, 140, 248, 0.03); border-radius: 30px; font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; letter-spacing: 0.5px;">
-    💻 Software Development Engineer &nbsp;&middot;&nbsp; 🚀 Backend &amp; Systems Enthusiast
-  </div>
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td bgcolor="#161b22" align="center" style="padding: 8px 24px; border: 1px solid #30363d; border-radius: 20px;">
+        <font color="#818cf8" face="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
+          <strong>💻 Software Development Engineer &nbsp;&middot;&nbsp; 🚀 Backend &amp; Systems Enthusiast</strong>
+        </font>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 <br/>
 <br/>
 
-<div style="display: flex; flex-direction: column; gap: 12px; max-width: 560px; margin: 0 auto; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-  <!-- Card 1 -->
-  <div style="border-left: 4px solid #818cf8; background: rgba(129, 140, 248, 0.04); border-radius: 0 12px 12px 0; padding: 16px 20px; display: flex; align-items: flex-start; gap: 12px;">
-    <span style="font-size: 20px; line-height: 1;">🏗️</span>
-    <div>
-      <strong style="font-size: 15px; font-weight: 600;">Building</strong>
-      <p style="margin: 4px 0 0 0; font-size: 14px; line-height: 1.5; opacity: 0.8;">backend solutions &amp; ML models for physiological signal analysis</p>
-    </div>
-  </div>
-  <!-- Card 2 -->
-  <div style="border-left: 4px solid #a78bfa; background: rgba(167, 139, 250, 0.04); border-radius: 0 12px 12px 0; padding: 16px 20px; display: flex; align-items: flex-start; gap: 12px;">
-    <span style="font-size: 20px; line-height: 1;">🌱</span>
-    <div>
-      <strong style="font-size: 15px; font-weight: 600;">Learning</strong>
-      <p style="margin: 4px 0 0 0; font-size: 14px; line-height: 1.5; opacity: 0.8;">Distributed Systems, System Design &amp; Low-Level Performance</p>
-    </div>
-  </div>
-  <!-- Card 3 -->
-  <div style="border-left: 4px solid #fb7185; background: rgba(251, 113, 133, 0.04); border-radius: 0 12px 12px 0; padding: 16px 20px; display: flex; align-items: flex-start; gap: 12px;">
-    <span style="font-size: 20px; line-height: 1;">⚡</span>
-    <div>
-      <strong style="font-size: 15px; font-weight: 600;">Fun Fact</strong>
-      <p style="margin: 4px 0 0 0; font-size: 14px; line-height: 1.5; opacity: 0.8;">avid follower of global geopolitics &amp; strategic affairs</p>
-    </div>
-  </div>
-</div>
+<table align="center" width="560" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  <tr bgcolor="#161b22">
+    <td width="40" align="center" valign="middle" style="padding: 12px; font-size: 20px; border-bottom: 1px solid #30363d;">🏗️</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #30363d;">
+      <strong style="color: #818cf8;">Building</strong> — <font size="2" color="#8b949e">backend solutions &amp; ML models for physiological signal analysis</font>
+    </td>
+  </tr>
+  <tr bgcolor="#0d1117">
+    <td width="40" align="center" valign="middle" style="padding: 12px; font-size: 20px; border-bottom: 1px solid #30363d;">🌱</td>
+    <td style="padding: 12px 16px; border-bottom: 1px solid #30363d;">
+      <strong style="color: #a78bfa;">Learning</strong> — <font size="2" color="#8b949e">Distributed Systems, System Design &amp; Low-Level Performance</font>
+    </td>
+  </tr>
+  <tr bgcolor="#161b22">
+    <td width="40" align="center" valign="middle" style="padding: 12px; font-size: 20px;">⚡</td>
+    <td style="padding: 12px 16px;">
+      <strong style="color: #fb7185;">Fun Fact</strong> — <font size="2" color="#8b949e">avid follower of global geopolitics &amp; strategic affairs</font>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -72,35 +72,29 @@
 
 <div align="center">
 
-<h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 1.6em; border-bottom: none; margin-top: 20px; margin-bottom: 24px;">🛠️ Tech Stack &amp; Tools</h2>
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 1.6em; border-bottom: none; margin-top: 20px; margin-bottom: 24px;">🛠️ Tech Stack &amp; Tools</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 900px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-
-<!-- Frontend -->
-<div style="flex: 1 1 250px; min-width: 250px; max-width: 270px; border: 1px solid rgba(129, 140, 248, 0.2); background: rgba(129, 140, 248, 0.02); border-radius: 12px; padding: 20px; text-align: left;">
-<div style="font-size: 11px; font-weight: 600; opacity: 0.6; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 14px; display: flex; align-items: center; gap: 6px;">
-🎨 Frontend
-</div>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma,nextjs&perline=4" alt="Frontend" style="max-width: 100%;">
-</div>
-
-<!-- Backend & Languages -->
-<div style="flex: 1 1 250px; min-width: 250px; max-width: 270px; border: 1px solid rgba(167, 139, 250, 0.2); background: rgba(167, 139, 250, 0.02); border-radius: 12px; padding: 20px; text-align: left;">
-<div style="font-size: 11px; font-weight: 600; opacity: 0.6; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 14px; display: flex; align-items: center; gap: 6px;">
-⚙️ Backend &amp; Languages
-</div>
-<img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,c&perline=4" alt="Backend" style="max-width: 100%;">
-</div>
-
-<!-- Database & Tools -->
-<div style="flex: 1 1 250px; min-width: 250px; max-width: 270px; border: 1px solid rgba(251, 113, 133, 0.2); background: rgba(251, 113, 133, 0.02); border-radius: 12px; padding: 20px; text-align: left;">
-<div style="font-size: 11px; font-weight: 600; opacity: 0.6; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 14px; display: flex; align-items: center; gap: 6px;">
-💾 Database &amp; Tools
-</div>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode&perline=4" alt="Database & Tools" style="max-width: 100%;">
-</div>
-
-</div>
+  <table align="center" width="90%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+    <tr>
+      <td valign="top" width="33%" align="center" bgcolor="#161b22" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+        <font color="#818cf8" size="2"><strong>🎨 Frontend</strong></font>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma,nextjs&perline=3" alt="Frontend">
+      </td>
+      <td width="2%">&nbsp;</td>
+      <td valign="top" width="33%" align="center" bgcolor="#161b22" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+        <font color="#a78bfa" size="2"><strong>⚙️ Backend &amp; Languages</strong></font>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,c&perline=3" alt="Backend">
+      </td>
+      <td width="2%">&nbsp;</td>
+      <td valign="top" width="33%" align="center" bgcolor="#161b22" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+        <font color="#fb7185" size="2"><strong>💾 Database &amp; Tools</strong></font>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode&perline=3" alt="Database & Tools">
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -112,27 +106,25 @@
 
 <div align="center">
 
-<h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 1.6em; border-bottom: none; margin-top: 20px; margin-bottom: 24px;">🐍 My Contributions</h2>
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 600; font-size: 1.6em; border-bottom: none; margin-top: 20px; margin-bottom: 24px;">🐍 My Contributions</h2>
 
-<div style="border: 1px solid rgba(110, 118, 129, 0.2); border-radius: 12px; overflow: hidden; max-width: 830px; margin: 0 auto; box-shadow: 0 4px 20px rgba(0,0,0,0.15); background: transparent;">
-<!-- Terminal header -->
-<div style="background: rgba(110, 118, 129, 0.08); border-bottom: 1px solid rgba(110, 118, 129, 0.2); padding: 12px 18px; display: flex; align-items: center; justify-content: space-between;">
-<div style="display: flex; gap: 8px;">
-<span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
-<span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
-<span style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
-</div>
-<div style="opacity: 0.7; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: 500; letter-spacing: 0.5px;">contribution_graph.sh</div>
-<div style="width: 52px;"></div>
-</div>
-<!-- Terminal body -->
-<div style="padding: 24px; display: flex; justify-content: center;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanishqJoshi/TanishqJoshi/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanishqJoshi/TanishqJoshi/output/github-contribution-grid-snake.svg">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TanishqJoshi/TanishqJoshi/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
-</picture>
-</div>
+  <table align="center" width="90%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
+    <tr bgcolor="#161b22">
+      <td align="left" style="padding: 10px 16px; border-bottom: 1px solid #30363d;">
+        &nbsp;🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e" face="monospace" size="2">contribution_graph.sh</font>
+      </td>
+    </tr>
+    <tr bgcolor="#0d1117">
+      <td align="center" style="padding: 24px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanishqJoshi/TanishqJoshi/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanishqJoshi/TanishqJoshi/output/github-contribution-grid-snake.svg">
+          <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TanishqJoshi/TanishqJoshi/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
+        </picture>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 </div>
