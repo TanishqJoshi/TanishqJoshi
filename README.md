@@ -28,15 +28,15 @@
 <div align="center" style="max-width: 560px; margin: 0 auto;">
 
   <div style="border-left: 4px solid #5850ec; border: 1px solid #e2e8f0; border-radius: 12px; padding: 14px 20px; margin: 10px auto; text-align: left; max-width: 520px;">
-    🏗️&nbsp; <strong>Building</strong> — backend solutions &amp; ML models for physiological signal analysis
+    🏗️&nbsp; <strong>Building</strong> - backend solutions &amp; ML models for physiological signal analysis
   </div>
 
   <div style="border-left: 4px solid #7c3aed; border: 1px solid #e2e8f0; border-radius: 12px; padding: 14px 20px; margin: 10px auto; text-align: left; max-width: 520px;">
-    🌱&nbsp; <strong>Learning</strong> — Distributed Systems, System Design &amp; Low-Level Performance
+    🌱&nbsp; <strong>Learning</strong> - Distributed Systems, System Design &amp; Low-Level Performance
   </div>
 
   <div style="border-left: 4px solid #5850ec; border: 1px solid #e2e8f0; border-radius: 12px; padding: 14px 20px; margin: 10px auto; text-align: left; max-width: 520px;">
-    ⚡&nbsp; <strong>Fun fact</strong> — avid follower of global geopolitics &amp; strategic affairs
+    ⚡&nbsp; <strong>Fun fact</strong> - avid follower of global geopolitics &amp; strategic affairs
   </div>
 
 </div>
